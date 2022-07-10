@@ -1,3 +1,2 @@
-# Spring DataBase JDBC Basic
-- 
+# Spring JDBC Basic
 - JDBC
